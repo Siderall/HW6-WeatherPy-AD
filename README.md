@@ -10,7 +10,7 @@ Data was collected on Friday, July 26th, 2019 at 10:00 am PDT, thus the figures 
 I found that Temperature has a strong negative relationship with Latitude. That is, as Latitude increases, Temperature decreases in a predictable way. The other variables of Humidity, Cloud Cover and Wind Speed were not significantly dependant on Latitude.
 
 ### Deliverables:
-1. [**Jupyter Notebook with Analysis**](https://github.com/Siderall/HW6-WeatherPy-AD/blob/master/WeatherPy.ipynb)
+1. [**Jupyter Notebook with Analysis**](https://github.com/Siderall/HW6-WeatherPy-AD/blob/master/WeatherPy_final.ipynb)
 2. [**Raw Data Print Log**](https://github.com/Siderall/HW6-WeatherPy-AD/blob/master/final_data-log.txt)
 * 611 cities were randomly selected from the cities.csv database and then used to make an API call to the OpenWeatherMap API. Some of the cities were skipped because they didn't exist in the OpenWeatherMap database. In total, 544 cities were returned from the API call.
 3. [**Finalized Database (CSV)**](https://github.com/Siderall/HW6-WeatherPy-AD/blob/master/city_weather_data.csv)
